@@ -1,2 +1,2 @@
-# courses-checks
-Create for my application.
+# English_Thesaurus
+A English dictionary
